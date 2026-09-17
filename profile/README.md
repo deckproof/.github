@@ -15,5 +15,7 @@ Security and quality findings are technical observations. Items about EU law des
 ### Deckproof
 
 Website: https://deckproof.dev
+X: https://x.com/deckproofdev
+LinkedIn: https://www.linkedin.com/company/deckproof
 Impressum: https://deckproof.dev/impressum
 Datenschutz: https://deckproof.dev/datenschutz
